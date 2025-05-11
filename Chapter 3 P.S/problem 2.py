@@ -3,4 +3,4 @@ Dear <|Name|>,
 You are selected!
 <|Date|>
 '''
-print(letter.replace("<|Name|>","Saad").replace("<|Date|>","17 september 2024"))
+print(letter.replace("<|Name|>","Saad").replace("<|Date|>","11 May 2025"))
